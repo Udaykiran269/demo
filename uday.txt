@@ -1,1 +1,1 @@
---- EMPTY FILE ---
+This is an interesting session regarding branches. 
